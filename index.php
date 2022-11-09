@@ -5,9 +5,7 @@
   </head>
   
   <body>
-    Hello
+    <p>Hello</p>
+    <p><?php echo 4+3; ?></p>
   </body>
-
-
-
 </html>
